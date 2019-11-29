@@ -21,4 +21,8 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 ## Organizing Committee
 
 * Artem Babaian (@ababaian)
-* Your name here (email us)
+* Emre Erhan (@emreerhan)
+* Justin Jia (@imasianxd)
+* Jennifer Lin (@jenjaelin)
+* Noushin Nabavi (@NoushinN)
+* Alex Sweetey (@SweetiePi)
