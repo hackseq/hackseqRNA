@@ -8,4 +8,5 @@
 - https://pages.semanticscholar.org/coronavirus-research   
 - https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge#019ede0c6f1c02b64dea8e05e3bc8c7cb5811fae.json  
 - https://covid19.fyi/#/ **explicitely states they need help
+- http://coronavirushandbook.com/   
 
