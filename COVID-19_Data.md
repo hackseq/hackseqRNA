@@ -12,6 +12,8 @@
 - http://vinodscaria.rnabiology.org/covid-19   
 - https://codevid19.com/  
 - https://crowdfightcovid19.org/  
+- https://covidtracking.com/  
+- https://covidbase.com/7d1a6f8ef0b9434b87e68cbe05d8a9d6  
 
 ## Research sources related  to COVID-19 
 - http://coronavirushandbook.com/   
