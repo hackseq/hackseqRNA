@@ -15,8 +15,8 @@
 - https://covidtracking.com/  
 - https://covidbase.com/7d1a6f8ef0b9434b87e68cbe05d8a9d6  
 - https://www.ebi.ac.uk/ena/pathogens/covid-19  
-- https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=Severe%20acute%20respiratory%20syndrome%20coronavirus%202,%20taxid:2697049
-- https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Protein&VirusLineage_ss=Severe%20acute%20respiratory%20syndrome%20coronavirus%202,%20taxid:2697049  
+- Nucleotide sequences: https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=Severe%20acute%20respiratory%20syndrome%20coronavirus%202,%20taxid:2697049
+- Protein sequences: https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Protein&VirusLineage_ss=Severe%20acute%20respiratory%20syndrome%20coronavirus%202,%20taxid:2697049  
 - Twitter data: https://github.com/thepanacealab/covid19_twitter and http://www.panacealab.org/covid19/  and https://zenodo.org/record/3723940#.Xnkzes5Kg2w   
 
 ## Research sources related  to COVID-19 
