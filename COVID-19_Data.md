@@ -18,7 +18,10 @@
 - Nucleotide sequences: https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=Severe%20acute%20respiratory%20syndrome%20coronavirus%202,%20taxid:2697049
 - Protein sequences: https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Protein&VirusLineage_ss=Severe%20acute%20respiratory%20syndrome%20coronavirus%202,%20taxid:2697049  
 - Twitter data: https://github.com/thepanacealab/covid19_twitter and http://www.panacealab.org/covid19/  and https://zenodo.org/record/3723940#.Xnkzes5Kg2w   
+- NCBI Sars-Cov-2 sequences: https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/
 - https://qap.ecdc.europa.eu/public/extensions/COVID-19/COVID-19.html
+- "LitCovid" dataset: LitCovid collection at PubAnnotation: http://pubannotation.org/collections/LitCovid & http://pubannotation.org/  
+- 
 
 ## Research sources related  to COVID-19 
 - http://coronavirushandbook.com/   
