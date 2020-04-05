@@ -4,6 +4,7 @@
 - https://github.com/FoldingAtHome/coronavirus  
 - https://github.com/nextstrain/ncov  
 - https://github.com/CSSEGISandData/COVID-19  
+- https://github.com/owid/covid-19-data
 - https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases  
 - https://pages.semanticscholar.org/coronavirus-research   
 - https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge#019ede0c6f1c02b64dea8e05e3bc8c7cb5811fae.json  
@@ -20,6 +21,7 @@
 - Twitter data: https://github.com/thepanacealab/covid19_twitter and http://www.panacealab.org/covid19/  and https://zenodo.org/record/3723940#.Xnkzes5Kg2w   
 - NCBI Sars-Cov-2 sequences: https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/
 - https://qap.ecdc.europa.eu/public/extensions/COVID-19/COVID-19.html
+- https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
 - "LitCovid" dataset: LitCovid collection at PubAnnotation: http://pubannotation.org/collections/LitCovid & http://pubannotation.org/  
 
 
